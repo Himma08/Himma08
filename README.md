@@ -1,48 +1,65 @@
-# 👋 Hi, I'm Himanshu Sharma!
+<!-- Profile Banner / Animated Character -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="Computer Science Student" />
+</div>
 
-🎓 BCA 2nd Year Student | 💻 Aspiring Software Developer  
-📧 Email: [hs4661624@gmail.com](mailto:hs4661624@gmail.com)
+---
+
+<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+
+<p align="center">
+  🎓 BCA 2nd Year Student &nbsp; | &nbsp; 💻 Aspiring Software Developer  
+</p>
+
+<p align="center">
+  📧 <a href="mailto:hs4661624@gmail.com">hs4661624@gmail.com</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor of Computer Applications (BCA)**. I love turning ideas into reality using code and am always eager to learn new technologies and improve my skills.
+I'm a passionate **Computer Science student** with a love for building software, solving problems, and learning new technologies. Currently diving deeper into **Java**, **Web Development**, and **Software Design**. Always ready to explore new tools and frameworks!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-- 💡 **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Java Concepts
-- Building Full-Stack Web Applications
-- Version Control with Git & GitHub
+- ⚙️ Advanced Java Programming
+- 🌐 Full-Stack Web Development
+- 🔧 Git & Version Control
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshusharma-git&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma-git&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [hs4661624@gmail.com](mailto:hs4661624@gmail.com)
-- 🌐 Portfolio (Coming Soon!)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himma08&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himma08&layout=compact&theme=tokyonight" height="160"/>
+</div>
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you like anything.*
+## 📫 Connect with Me
+
+<p align="center">
+  📧 <a href="mailto:hs4661624@gmail.com">hs4661624@gmail.com</a>  
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile! Feel free to explore my repositories and leave a ⭐ if you find something interesting!
+</p>
