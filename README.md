@@ -1,6 +1,6 @@
 <!-- Profile Banner / Animated Character -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-engineer&psig=AOvVaw1KVfcB49_veOHXwgyB53pL&ust=1755335637284000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjrwf28jI8DFQAAAAAdAAAAABAE)" width="300px" alt="Computer Science Student" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="Computer Science Student" />
 </div>
 
 ---
